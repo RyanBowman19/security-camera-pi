@@ -3,7 +3,7 @@
 Built a motion-detection surveillance system using a Raspberry Pi and USB webcam that automatically captures footage when motion is detected and uploads it to Google Drive for cloud storage.
 
 ## Demo
-[Watch the demo on YouTube](PASTE YOUR YOUTUBE LINK HERE)
+https://youtu.be/6o62tD7spwQ
 
 ## What it does
 - Detects motion using MotionEye OS running on a Raspberry Pi
